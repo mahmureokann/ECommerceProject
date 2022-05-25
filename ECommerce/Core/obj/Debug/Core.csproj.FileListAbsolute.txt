@@ -1,0 +1,12 @@
+C:\Users\FatihGunalp\Desktop\YZL3156\Project\24.05\ECommerce\Core\bin\Debug\Core.dll
+C:\Users\FatihGunalp\Desktop\YZL3156\Project\24.05\ECommerce\Core\bin\Debug\Core.pdb
+C:\Users\FatihGunalp\Desktop\YZL3156\Project\24.05\ECommerce\Core\obj\Debug\Core.csproj.AssemblyReference.cache
+C:\Users\FatihGunalp\Desktop\YZL3156\Project\24.05\ECommerce\Core\obj\Debug\Core.csproj.CoreCompileInputs.cache
+C:\Users\FatihGunalp\Desktop\YZL3156\Project\24.05\ECommerce\Core\obj\Debug\Core.dll
+C:\Users\FatihGunalp\Desktop\YZL3156\Project\24.05\ECommerce\Core\obj\Debug\Core.pdb
+C:\Users\FatihGunalp\Desktop\YZL3156\Project\24.05\ECommerce\Core\bin\Debug\Core.dll.config
+C:\Users\FatihGunalp\Desktop\YZL3156\Project\24.05\ECommerce\Core\bin\Debug\EntityFramework.dll
+C:\Users\FatihGunalp\Desktop\YZL3156\Project\24.05\ECommerce\Core\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\FatihGunalp\Desktop\YZL3156\Project\24.05\ECommerce\Core\bin\Debug\EntityFramework.xml
+C:\Users\FatihGunalp\Desktop\YZL3156\Project\24.05\ECommerce\Core\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\FatihGunalp\Desktop\YZL3156\Project\24.05\ECommerce\Core\obj\Debug\Core.csproj.CopyComplete
